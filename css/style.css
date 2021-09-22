@@ -1,0 +1,135 @@
+
+#form-bg{
+    margin-top: 40px;
+ 
+
+}
+
+#form-bg .heiding{
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 10px;
+   
+}
+
+#form-bg .heiding2{
+ 
+    margin-top: -5px;
+    padding-left: 10px;
+    color: rgb(84, 81, 81);
+   
+    margin-bottom: 5px;
+   
+}
+#form-bg form{
+   box-shadow: 1px 1px 5px 1px rgb(131, 126, 126);
+   border-radius: 5px;
+}
+
+
+#form-bg .fristname{
+    padding: 5px 2px;
+    border-radius: 5px;
+    border: 1px solid rgb(209, 209, 209);
+    background-color: rgb(247, 247, 247);
+}
+#form-bg .surename{
+    padding: 5px 2px;
+    border-radius: 5px;
+    border: 1px solid rgb(209, 209, 209);
+    background-color: rgb(247, 247, 247);
+    border-radius: 5px;
+}
+#form-bg .email{
+    width: 434px;
+  margin-left: 10px;
+  margin-top: 20px;
+  padding: 5px 2px;
+  background-color: rgb(247, 247, 247);
+  border: 1px solid rgb(209, 209, 209);
+    
+  border-radius: 5px;
+}
+
+#form-bg .password{
+    width: 434px;
+  margin-left: 10px;
+  border: 1px solid rgb(209, 209, 209);
+  background-color: rgb(247, 247, 247);
+  padding: 5px 2px;
+  border-radius: 5px;
+    
+}
+#form-bg .date11{
+   margin-top: -12px;
+   margin-bottom: -1px;
+   margin-left: -12px;
+   font-size: 14px;
+    
+}
+#form-bg .gender{
+   margin-top: -4px;
+   margin-bottom: -1px;
+   margin-left: -10px;
+   font-size: 14px;
+}
+#form-bg .term{
+  
+   font-size: 11px;
+   margin-top: 10px;
+   padding-left: 10px;
+   text-align: center;
+}
+#form-bg .date-item{
+   display: flex;
+   justify-content:space-between;
+    
+}
+#form-bg .date-item .date-list{
+    width: 130px;
+    padding: 5px 2px;
+    border-radius: 5px;
+    
+    
+}
+#form-bg .date-item .date1{
+    margin-left: -12px;
+    margin-right: 5px;
+    border: 1px solid rgb(209, 209, 209);
+    background-color: rgb(247, 247, 247);
+    cursor: pointer;
+}
+#form-bg .date-item .month{
+    border: 1px solid rgb(209, 209, 209);
+    background-color: rgb(247, 247, 247);
+    cursor: pointer;
+    
+}
+#form-bg .date-item .year{
+    border: 1px solid rgb(209, 209, 209);
+    background-color: rgb(247, 247, 247);
+ margin-left: 15px;
+    cursor: pointer;
+}
+
+
+
+
+#form-bg .btn{
+    padding: 5px 56px !important;
+    background: rgb(15, 189, 20);
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    transition: all linear 0.4s;
+    margin-bottom: 20px;
+
+}
+#form-bg .btn:hover{
+    
+    background: rgb(95, 146, 97);
+   
+
+}
+
+
